@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f6eddf">
+  <meta name="description" content="Descubra seu estilo, planeje a decoração e organize suas compras com o método D.N.A. da Engenharia da Decoração, de Carolina Perrone.">
+  <title>Casa Bonita com Dinheiro Contado | Carolina Perrone</title>
+  <style>
+    :root{--ink:#202636;--paper:#f6eddf;--white:#fffdf8;--coral:#ef6b55;--pink:#f3a5a0;--blue:#3249a0;--yellow:#f6ca55;--green:#79917b;--lilac:#b5a3cf;--line:rgba(32,38,54,.17);--serif:Georgia,'Times New Roman',serif;--sans:Arial,Helvetica,sans-serif;--shadow:8px 9px 0 var(--ink);--radius:24px}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.62}a{color:inherit}img{max-width:100%}button{font:inherit}.wrap{width:min(1160px,calc(100% - 40px));margin:auto}.eyebrow{font-size:.72rem;font-weight:800;letter-spacing:.16em;text-transform:uppercase}.serif{font-family:var(--serif);font-weight:400;letter-spacing:-.035em}h1,h2,h3,p{margin-top:0}h1{font:400 clamp(3.2rem,7.8vw,7.4rem)/.93 var(--serif);letter-spacing:-.065em;margin:22px 0}h2{font:400 clamp(2.5rem,5vw,4.7rem)/1 var(--serif);letter-spacing:-.055em;margin-bottom:20px}h3{font:400 clamp(1.5rem,2.4vw,2.2rem)/1.1 var(--serif);letter-spacing:-.03em}.lead{font-size:clamp(1.08rem,1.7vw,1.34rem);line-height:1.5;max-width:660px}.small{font-size:.88rem}.muted{color:#5d6370}.section{padding:100px 0;position:relative}.section-head{max-width:740px;margin-bottom:42px}.center{text-align:center;margin-left:auto;margin-right:auto}.center .lead{margin-left:auto;margin-right:auto}.pill{display:inline-flex;align-items:center;gap:9px;border:1px solid var(--line);border-radius:999px;padding:8px 14px;background:rgba(255,253,248,.62);font-size:.78rem;font-weight:700}.pill:before{content:"";width:8px;height:8px;border-radius:50%;background:var(--coral)}.button{display:inline-flex;justify-content:center;align-items:center;gap:12px;border:2px solid var(--ink);border-radius:999px;background:var(--coral);color:var(--ink);padding:16px 24px;font-size:.9rem;font-weight:800;text-decoration:none;box-shadow:4px 5px 0 var(--ink);transition:transform .2s,box-shadow .2s}.button:hover{transform:translate(3px,3px);box-shadow:1px 2px 0 var(--ink)}.button.blue{background:var(--blue);color:white}.button.yellow{background:var(--yellow)}.button.dark{background:var(--ink);color:white}.button .arrow{font-size:1.2rem}.note{font-size:.77rem;color:#5d6370;margin:12px 0 0}
+    .topbar{height:74px;display:flex;align-items:center;border-bottom:1px solid var(--line);position:relative;z-index:4}.topbar-inner{display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font:700 1rem/1.05 var(--serif);text-decoration:none;max-width:190px}.brand small{display:block;font:800 .58rem var(--sans);letter-spacing:.16em;text-transform:uppercase;margin-top:6px}.nav{display:flex;gap:25px;align-items:center;font-size:.78rem;font-weight:700}.nav a{text-decoration:none}.nav a:hover{text-decoration:underline}.nav .button{padding:10px 17px;font-size:.75rem}
+    .hero{padding:68px 0 92px;overflow:hidden;position:relative;background:var(--paper)}.hero:before{content:"";position:absolute;width:460px;height:460px;border-radius:50%;right:-170px;top:-140px;background:var(--yellow);opacity:.48}.hero:after{content:"";position:absolute;width:210px;height:210px;left:-95px;bottom:-100px;border-radius:50%;background:var(--pink)}.hero-grid{position:relative;z-index:1;display:grid;grid-template-columns:1.07fr .93fr;gap:56px;align-items:center}.hero-copy{max-width:700px}.hero h1 span{color:var(--blue);font-style:italic}.hero-copy .lead{margin:26px 0 24px}.hero-ctas{display:flex;gap:18px;align-items:center;flex-wrap:wrap}.hero-meta{display:flex;gap:16px;flex-wrap:wrap;margin-top:24px;color:#5d6370;font-size:.76rem}.hero-art{position:relative;min-height:515px}.sun{position:absolute;width:160px;height:160px;border-radius:50%;background:var(--coral);top:4px;right:20px}.arch{position:absolute;width:355px;height:420px;right:46px;top:53px;border:2px solid var(--ink);border-radius:180px 180px 18px 18px;background:var(--green);transform:rotate(2deg)}.arch:after{content:"";position:absolute;inset:22px;border:1px solid rgba(255,255,255,.65);border-radius:160px 160px 8px 8px}.hero-photo{position:absolute;width:min(310px,75%);height:390px;right:70px;top:74px;z-index:1;transform:rotate(-3deg);background:repeating-linear-gradient(45deg,#faf3e8,#faf3e8 13px,#eee1d3 13px,#eee1d3 26px)}.hero-photo .photo-placeholder{height:100%;border:0;background:rgba(255,253,248,.72)}.label-sticker{position:absolute;z-index:2;left:0;bottom:68px;background:var(--yellow);border:2px solid var(--ink);padding:16px 19px;transform:rotate(-7deg);font:italic 1.25rem var(--serif);box-shadow:4px 4px 0 var(--ink)}.flower{position:absolute;z-index:2;right:0;bottom:18px;color:var(--blue);font-size:5.5rem;line-height:1;transform:rotate(18deg)}.photo-placeholder{height:270px;width:100%;border:1.5px dashed rgba(32,38,54,.55);border-radius:16px;background-color:rgba(255,253,248,.58);display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;padding:22px;color:#59606b;position:relative;overflow:hidden}.photo-placeholder:before{content:"";width:56px;height:42px;border:1.5px solid currentColor;border-radius:8px;opacity:.55;margin-bottom:16px;background:linear-gradient(135deg,transparent 52%,rgba(32,38,54,.09) 53%)}.photo-placeholder b{font-size:.75rem;text-transform:uppercase;letter-spacing:.08em;color:var(--ink)}.photo-placeholder span{font-size:.72rem;margin-top:6px;max-width:250px}.photo-placeholder.tall{height:390px}.photo-placeholder.small-photo{height:185px}.photo-placeholder.dark-placeholder{background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.45);color:#e4dfd5}.photo-placeholder.dark-placeholder b{color:white}
+    .ticker{background:var(--blue);color:white;overflow:hidden;border-block:2px solid var(--ink);padding:13px 0}.ticker-line{display:flex;justify-content:center;gap:30px;white-space:nowrap;font:italic 1.14rem var(--serif)}.ticker .dot{color:var(--yellow)}
+    .intro{background:var(--white);padding:92px 0}.intro-grid{display:grid;grid-template-columns:.85fr 1.15fr;gap:70px;align-items:center}.intro-quote{font:italic clamp(1.8rem,3vw,2.7rem)/1.15 var(--serif);color:var(--blue);border-left:4px solid var(--coral);padding-left:25px}.intro-copy{font-size:1.04rem}.checklist{display:grid;grid-template-columns:repeat(2,1fr);gap:10px;margin-top:28px}.check{background:var(--paper);padding:13px 16px;border-radius:12px;font-size:.87rem}.check:before{content:"↗";color:var(--coral);font-weight:900;margin-right:9px}
+    .story{background:var(--ink);color:#fffdf8;overflow:hidden}.story-grid{display:grid;grid-template-columns:1fr .82fr;gap:72px;align-items:center}.story h2{color:var(--yellow)}.story .muted{color:#d4d1cd}.story .photo-placeholder{transform:rotate(2deg);box-shadow:var(--shadow);color:#dedbd5}.story .photo-placeholder b{color:white}.story-tag{display:inline-block;background:var(--coral);color:var(--ink);padding:7px 11px;font-size:.7rem;font-weight:900;letter-spacing:.1em;text-transform:uppercase;transform:rotate(-2deg);margin-bottom:18px}.story-copy p{max-width:640px}.story-end{font:italic 1.65rem/1.25 var(--serif);color:var(--yellow);margin-top:25px}
+    .timeline{display:grid;grid-template-columns:repeat(3,1fr);gap:15px;margin-top:46px}.timeline-card{padding:24px;background:#2c3342;border:1px solid rgba(255,255,255,.15);border-radius:16px}.timeline-card strong{display:block;color:var(--yellow);font:1.3rem var(--serif);margin-bottom:8px}.timeline-card p{font-size:.86rem;margin:0;color:#e4e1dc}
+    .problem{background:var(--yellow);overflow:hidden}.problem:before{content:"";position:absolute;top:-90px;right:-80px;width:280px;height:280px;border-radius:50%;border:2px solid var(--ink);opacity:.18}.problem-grid{display:grid;grid-template-columns:1fr 1fr;gap:70px;align-items:center}.problem h2{max-width:680px}.problem-list{background:var(--white);padding:28px 32px;border:2px solid var(--ink);border-radius:22px;box-shadow:var(--shadow);transform:rotate(1deg)}.problem-list li{padding:7px 0}.big-statement{font:italic clamp(1.65rem,3vw,2.45rem)/1.18 var(--serif);max-width:660px;margin:30px 0 0}.stripe-block{background:repeating-linear-gradient(90deg,var(--coral) 0,var(--coral) 16px,#f48b70 16px,#f48b70 32px);padding:36px;border:2px solid var(--ink);border-radius:50% 50% 20px 20px;min-height:320px;display:grid;place-items:center}.stripe-inner{background:var(--white);border:2px solid var(--ink);padding:30px;border-radius:16px;text-align:center;max-width:330px;transform:rotate(-3deg);box-shadow:5px 6px 0 var(--ink)}.stripe-inner p{font:italic 1.8rem/1.12 var(--serif);margin:0}
+    .pinboard{background:#dce4d8}.pinboard .section-head{margin-bottom:50px}.pin-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}.pin-card{background:var(--white);padding:13px 13px 24px;box-shadow:5px 6px 0 rgba(32,38,54,.16);transform:rotate(var(--rotate,1deg));}.pin-card:nth-child(2){--rotate:-2deg}.pin-card:nth-child(3){--rotate:2deg}.pin-card .photo-placeholder{height:220px;border-radius:4px;background-color:#eee5d9}.pin-card h3{margin:20px 9px 10px}.pin-card p{margin:0 9px;font-size:.88rem}.pin-card .tape{position:absolute;z-index:2;top:-10px;left:38%;width:74px;height:22px;background:rgba(246,202,85,.78);transform:rotate(-6deg)}
+    .method{background:var(--white)}.method-layout{display:grid;grid-template-columns:.72fr 1.28fr;gap:50px;align-items:start}.method-nav{position:sticky;top:30px;display:grid;gap:12px}.method-tab{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:17px 18px;text-align:left;cursor:pointer;color:var(--ink);font-weight:800;transition:.2s}.method-tab span{display:block;color:#777d86;font-size:.75rem;font-weight:500;margin-top:4px}.method-tab[aria-selected="true"]{background:var(--blue);color:white;box-shadow:4px 4px 0 var(--ink);transform:translate(-3px,-3px)}.method-tab[aria-selected="true"] span{color:#e5e7f7}.method-panel{background:var(--paper);border-radius:28px;padding:clamp(26px,5vw,56px);min-height:365px;position:relative;overflow:hidden}.method-panel:after{content:attr(data-letter);font:italic 14rem/.8 var(--serif);position:absolute;right:10px;bottom:-35px;color:rgba(50,73,160,.08);pointer-events:none}.method-panel>*{position:relative;z-index:1}.method-panel .method-kicker{color:var(--coral);font-weight:900;letter-spacing:.12em;text-transform:uppercase;font-size:.75rem}.method-panel p{max-width:630px}.method-panel .result{font:italic 1.35rem/1.3 var(--serif);color:var(--blue);margin-top:24px}.method-steps{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:34px}.method-steps div{border-top:2px solid var(--ink);padding-top:12px;font-size:.82rem}.method-steps b{display:block;font:1.4rem var(--serif);color:var(--coral);margin-bottom:4px}
+    .phases{background:var(--lilac)}.phase-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:17px}.phase{background:var(--white);border:1.5px solid var(--ink);border-radius:18px;padding:24px;box-shadow:5px 6px 0 var(--ink)}.phase-num{display:inline-grid;place-items:center;width:45px;height:45px;background:var(--yellow);border:1.5px solid var(--ink);border-radius:50%;font:1.25rem var(--serif);margin-bottom:20px}.phase p{font-size:.9rem}.phase .mini-list{border-top:1px solid var(--line);padding-top:14px;margin-top:16px;font-size:.8rem}
+    .gallery{background:var(--paper)}.gallery-row{display:grid;grid-template-columns:1fr 1fr 1fr;gap:18px}.gallery-item{position:relative}.gallery-item .photo-placeholder{height:260px;border:0;box-shadow:5px 6px 0 var(--ink);background-color:#e7d8c7}.gallery-item:nth-child(2) .photo-placeholder{background-color:#d2d9cf}.gallery-item:nth-child(3) .photo-placeholder{background-color:#d9d8e5}.gallery-item figcaption{font-size:.78rem;margin-top:17px;font-weight:700}.gallery-note{margin-top:32px;padding:18px 20px;border-left:4px solid var(--coral);background:rgba(255,253,248,.6);font-size:.88rem}
+    .accessible{background:var(--coral);}.access-grid{display:grid;grid-template-columns:.9fr 1.1fr;gap:58px;align-items:center}.access-card{background:var(--yellow);padding:34px;border:2px solid var(--ink);border-radius:50% 50% 16px 16px;text-align:center;box-shadow:var(--shadow)}.access-card .photo-placeholder{border-radius:50% 50% 12px 12px;height:290px;background-color:rgba(255,253,248,.4)}.access-copy p{max-width:620px}.promise-list{display:flex;flex-wrap:wrap;gap:9px;margin-top:24px}.promise-list span{background:var(--white);border:1px solid var(--ink);border-radius:999px;padding:8px 13px;font-size:.78rem;font-weight:700}
+    .offer{background:var(--blue);color:white;overflow:hidden}.offer:before{content:"";position:absolute;inset:0;background-image:radial-gradient(rgba(255,255,255,.1) 1px,transparent 1px);background-size:18px 18px;opacity:.55}.offer .wrap{position:relative}.offer h2{color:var(--yellow)}.offer .section-head{max-width:760px}.included{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:40px 0}.included-card{background:var(--white);color:var(--ink);border:2px solid var(--ink);border-radius:20px;padding:24px 27px;box-shadow:5px 6px 0 rgba(0,0,0,.28)}.included-card h3{margin-bottom:16px}.included-card ul{padding-left:18px;margin:0}.included-card li{margin:9px 0;font-size:.9rem}.bonus-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin:14px 0 40px}.bonus{background:#fff5d9;color:var(--ink);padding:19px;border-radius:14px;min-height:160px}.bonus strong{display:block;font:1.2rem/1.1 var(--serif);margin-bottom:8px}.bonus p{font-size:.8rem;margin:0}.price-box{background:var(--coral);color:var(--ink);border:2px solid var(--ink);border-radius:26px;padding:clamp(28px,5vw,52px);display:grid;grid-template-columns:1fr auto;gap:30px;align-items:center;box-shadow:8px 9px 0 #171c2a}.price-box .price{font:400 clamp(2.4rem,5vw,4.3rem)/1 var(--serif);letter-spacing:-.055em;margin:12px 0}.price-box .old-price{text-decoration:line-through;opacity:.7}.price-box .button{background:var(--yellow)}.secure{font-size:.77rem;margin:14px 0 0}.guarantee{background:var(--white);color:var(--ink);display:grid;grid-template-columns:100px 1fr;gap:24px;align-items:center;border-radius:18px;padding:25px;margin-top:20px}.seal{width:90px;height:90px;border:2px solid var(--ink);border-radius:50%;display:grid;place-items:center;text-align:center;background:var(--yellow);font:italic 1rem/1 var(--serif);transform:rotate(-9deg)}.guarantee p{margin:0;font-size:.9rem}
+    .audience{background:var(--white)}.aud-grid{display:grid;grid-template-columns:1fr 1fr;gap:22px}.aud-card{border-radius:22px;padding:31px;background:#e2e9df}.aud-card.no{background:#f7d6d0}.aud-card h3{margin-bottom:19px}.aud-card li{margin:10px 0}.aud-card ul{padding-left:20px}.faq{background:var(--yellow)}.faq-list{max-width:850px;margin:auto;display:grid;gap:10px}.faq details{background:var(--white);border:1.5px solid var(--ink);border-radius:13px;padding:17px 21px}.faq summary{font-weight:800;cursor:pointer;list-style:none;display:flex;justify-content:space-between;gap:18px}.faq summary::-webkit-details-marker{display:none}.faq summary:after{content:"+";font-size:1.35rem;line-height:1;font-weight:400}.faq details[open] summary:after{content:"−"}.faq details p{margin:13px 30px 2px 0;font-size:.91rem}.closing{background:var(--green);overflow:hidden}.closing-grid{display:grid;grid-template-columns:1fr .7fr;gap:50px;align-items:center}.closing h2{max-width:700px}.closing .photo-placeholder{background-color:#f1dfc9;border:2px dashed var(--ink);box-shadow:var(--shadow);transform:rotate(-2deg)}.closing .button{margin-top:8px}.footer{background:var(--ink);color:#e7e4dc;padding:28px 0;font-size:.72rem}.footer-inner{display:flex;justify-content:space-between;gap:18px;align-items:center}.footer a{color:inherit}
+    .sticky-cta{position:fixed;z-index:10;bottom:14px;left:50%;transform:translateX(-50%);display:none;width:min(440px,calc(100% - 26px));padding:12px 17px;border-radius:999px;text-align:center;background:var(--coral);border:2px solid var(--ink);box-shadow:3px 4px 0 var(--ink);font-size:.82rem;font-weight:900;text-decoration:none}
+    @media(max-width:900px){.nav a:not(.button){display:none}.hero-grid,.story-grid,.problem-grid,.access-grid,.closing-grid{grid-template-columns:1fr}.hero-art{min-height:470px;max-width:540px;width:100%;margin:auto}.story-grid{gap:36px}.story-grid .photo-placeholder{max-width:480px;margin:auto}.method-layout{grid-template-columns:1fr}.method-nav{position:static;grid-template-columns:repeat(3,1fr)}.method-tab{padding:13px}.method-tab span{font-size:.68rem}.problem-grid{gap:42px}.access-card{max-width:460px;margin:auto}.closing-grid{gap:40px}.closing-grid .photo-placeholder{max-width:500px;margin:auto}.timeline{grid-template-columns:1fr 1fr}}
+    @media(max-width:640px){.wrap{width:min(100% - 28px,1160px)}.topbar{height:64px}.topbar-inner{gap:8px}.brand{font-size:.88rem}.brand small{font-size:.5rem}.nav .button{padding:9px 12px;font-size:.68rem}.hero{padding:48px 0 62px}.hero-grid{gap:30px}.hero h1{font-size:clamp(3rem,16vw,5rem)}.hero-art{min-height:380px}.arch{width:270px;height:330px;right:28px;top:37px}.hero-photo{width:235px;height:300px;right:48px;top:54px}.sun{width:115px;height:115px;right:2px}.label-sticker{bottom:30px;font-size:1rem}.flower{font-size:4rem;bottom:4px}.section{padding:70px 0}.intro{padding:68px 0}.intro-grid{grid-template-columns:1fr;gap:28px}.intro-quote{font-size:2rem}.checklist{grid-template-columns:1fr}.timeline{grid-template-columns:1fr}.problem-grid{grid-template-columns:1fr}.pin-grid,.phase-grid,.gallery-row{grid-template-columns:1fr}.pin-card{max-width:440px;margin:auto}.pin-card .photo-placeholder{height:230px}.method-nav{gap:7px}.method-tab{font-size:.72rem;padding:12px 8px}.method-tab span{display:none}.method-panel{padding:27px 23px;min-height:400px}.method-steps{grid-template-columns:1fr}.method-steps div{padding:10px 0 0}.included{grid-template-columns:1fr}.bonus-grid{grid-template-columns:1fr}.bonus{min-height:0}.price-box{grid-template-columns:1fr;text-align:center;gap:14px}.price-box .button{width:100%}.guarantee{grid-template-columns:1fr;text-align:center}.seal{margin:auto}.aud-grid{grid-template-columns:1fr}.closing-grid{grid-template-columns:1fr}.footer-inner{display:block;text-align:center}.sticky-cta{display:block}.hero-ctas .button{width:100%}.hero-meta{gap:9px}.ticker-line{justify-content:flex-start;font-size:1rem}.story .photo-placeholder{height:280px}.photo-placeholder.tall{height:330px}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*,*:before,*:after{transition:none!important}}
+    /* Visual system: warm paper, deep blue and restrained coral/yellow accents */
+    :root{--ink:#20283b;--paper:#f5f1e9;--white:#fffefa;--coral:#df6b58;--pink:#f8e9e4;--blue:#23345f;--yellow:#edc65b;--green:#e9edf2;--lilac:#e9edf2;--line:rgba(32,40,59,.15);--shadow:5px 6px 0 var(--ink)}
+    .button{border-radius:9px;background:var(--coral);color:white;box-shadow:3px 4px 0 var(--ink)}
+    .button:hover{transform:translate(2px,2px);box-shadow:1px 2px 0 var(--ink)}
+    .button.yellow{background:var(--blue);color:white}
+    .hero{padding:76px 0 84px}
+    .hero:before{opacity:.18}
+    .hero:after{border:1px solid rgba(35,52,95,.14);background:transparent}
+    .hero-grid{grid-template-columns:1fr .95fr;gap:54px}
+    .hero-art{min-height:0;padding:14px;background:var(--white);border:1px solid var(--line);border-radius:18px;box-shadow:0 12px 34px rgba(32,40,59,.12);transform:none}
+    .video-frame{position:relative;aspect-ratio:16/10;border-radius:11px;overflow:hidden;background:linear-gradient(145deg,#23345f,#18243f);display:grid;place-items:center;color:white;text-align:center}
+    .video-frame:before,.video-frame:after{content:"";position:absolute;border:1px solid rgba(255,255,255,.12);border-radius:50%;width:280px;height:280px}
+    .video-frame:after{width:390px;height:390px}
+    .video-frame-inner{position:relative;z-index:1;padding:24px}
+    .video-mark{display:grid;place-items:center;margin:0 auto 17px;width:65px;height:65px;border-radius:50%;background:var(--coral);border:2px solid white;color:white;font-size:1.35rem;padding-left:4px;box-shadow:0 0 0 8px rgba(255,255,255,.12)}
+    .video-frame b{display:block;font:1.42rem var(--serif);font-weight:400}
+    .video-frame span{display:block;color:#d9deed;font-size:.77rem;margin-top:8px}
+    .video-caption{display:flex;justify-content:space-between;gap:14px;padding:13px 4px 1px;color:#5d6370;font-size:.72rem}
+    .video-caption b{color:var(--ink)}
+    .problem{background:var(--paper)}
+    .problem:before{border-color:var(--blue);opacity:.1}
+    .problem-list{border:1px solid var(--line);border-radius:18px;box-shadow:0 10px 28px rgba(32,40,59,.08);transform:none}
+    .stripe-block{background:#e9edf2;border:1px solid var(--line);border-radius:15px;min-height:220px;padding:24px}
+    .stripe-inner{background:var(--white);border:0;border-left:4px solid var(--coral);border-radius:4px 12px 12px 4px;padding:21px 24px;box-shadow:none;transform:none;text-align:left}
+    .pinboard{background:#e9edf2}
+    .pin-card{border:1px solid var(--line);border-radius:14px;box-shadow:0 8px 24px rgba(32,40,59,.06);transform:none}
+    .pin-card .photo-placeholder{border-radius:9px}
+    .phases{background:#edf0f5}
+    .phase{border:1px solid var(--line);box-shadow:0 8px 22px rgba(32,40,59,.06)}
+    .phase-num{border:0}
+    .gallery{background:var(--white)}
+    .gallery-item .photo-placeholder{border:1px dashed rgba(32,40,59,.4);border-radius:13px;box-shadow:none}
+    .gallery-item:nth-child(2) .photo-placeholder,.gallery-item:nth-child(3) .photo-placeholder{background-color:#f2eee6}
+    .accessible{background:var(--pink)}
+    .access-card{background:var(--white);border:1px solid var(--line);border-radius:15px;box-shadow:0 8px 24px rgba(32,40,59,.07)}
+    .access-card .photo-placeholder{border-radius:10px}
+    .offer{background:var(--blue)}
+    .included-card{border:0;border-radius:15px;box-shadow:0 8px 22px rgba(0,0,0,.13)}
+    .bonus{border-radius:12px;background:#fff9e9}
+    .price-box{border:0;border-radius:18px;box-shadow:0 12px 30px rgba(0,0,0,.2)}
+    .price-box .button{background:var(--blue);color:white;border-color:var(--ink)}
+    .faq{background:#edf0f5}
+    .aud-card{background:var(--green)}
+    .aud-card.no{background:var(--pink)}
+    .faq details{border:1px solid var(--line);box-shadow:0 4px 14px rgba(32,40,59,.04)}
+    .closing{background:var(--paper)}
+    .closing .photo-placeholder{transform:none}
+    .story .photo-placeholder{transform:none;box-shadow:0 12px 30px rgba(0,0,0,.2)}
+    .story-tag{transform:none;border-radius:4px}
+    .sticky-cta{border-radius:9px;background:var(--blue);color:white;box-shadow:0 5px 18px rgba(0,0,0,.2)}
+    .shift{background:#f2eee6}.shift-grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}.shift-card{padding:30px;border-radius:16px;background:var(--white);border:1px solid var(--line)}.shift-card.after{background:var(--blue);color:white}.shift-card h3{margin-bottom:18px}.shift-card.after h3{color:var(--yellow)}.shift-card ul{padding-left:19px;margin:0}.shift-card li{padding:6px 0}.shift-cta{text-align:center;margin-top:34px}.shift-cta p{font:italic 1.35rem var(--serif);margin-bottom:18px}
+    .career-details{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin:28px 0 48px}.career-detail{padding:24px 26px;background:var(--paper);border-radius:14px;border-top:3px solid var(--coral)}.career-detail p{font-size:.92rem;margin:9px 0 0}.stage-story{display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center;margin-top:45px;padding:30px;background:var(--white);border:1px solid var(--line);border-radius:18px}.stage-story p:last-child{margin-bottom:0}
+    @media(max-width:640px){.shift-grid,.career-details,.stage-story{grid-template-columns:1fr}}
+    @media(max-width:900px){.hero-grid{grid-template-columns:1fr}.hero-art{max-width:650px;width:100%;margin:5px auto 0}}
+    @media(max-width:640px){.hero-art{min-height:0}.hero{padding-top:50px}.video-frame{aspect-ratio:4/3}.video-frame:after{width:290px;height:290px}}
+  </style>
+</head>
+<body>
+  <header class="topbar">
+    <div class="wrap topbar-inner">
+      <a class="brand" href="#top">Engenharia da Decoração<small>com Carolina Perrone</small></a>
+      <nav class="nav" aria-label="Navegação principal"><a href="#metodo">O método</a><a href="#conteudo">O que você recebe</a><a href="#duvidas">Dúvidas</a><a class="button yellow" href="#oferta">Quero decorar</a></nav>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero">
+      <div class="wrap hero-grid">
+        <div class="hero-copy">
+          <span class="pill">Casa bonita com dinheiro contado</span>
+          <h1>Decore uma casa que tenha <span>a sua cara.</span></h1>
+          <p class="lead"><strong>Descubra seu estilo, planeje o espaço e saiba o que comprar antes de gastar.</strong> Com o método D.N.A. da Engenharia da Decoração, você organiza suas escolhas sem depender de tendências ou de experiência profissional.</p>
+          <div class="hero-ctas"><a class="button" href="#oferta">Quero decorar com identidade e planejamento <span class="arrow">↗</span></a></div>
+          <div class="hero-meta"><span>Engenheira e designer de interiores</span><span>•</span><span>5 anos de projetos</span><span>•</span><span>Experiência em Home Staging nos EUA</span></div>
+        </div>
+        <div class="hero-art" aria-label="Espaço reservado para o vídeo de vendas">
+          <div class="video-frame"><div class="video-frame-inner"><div class="video-mark" aria-hidden="true">▶</div><b>Vídeo de apresentação</b><span>Inserir aqui o vídeo de vendas da Carolina</span></div></div>
+          <div class="video-caption"><b>Engenharia da Decoração</b><span>Uma nova forma de pensar a sua casa</span></div>
+        </div>
+      </div>
+    </section>
+
+    <div class="ticker" aria-hidden="true"><div class="ticker-line"><span>Identidade primeiro</span><span class="dot">✳</span><span>Projeto depois</span><span class="dot">✳</span><span>Compras por último</span><span class="dot">✳</span><span>Identidade primeiro</span></div></div>
+
+    <section class="intro">
+      <div class="wrap intro-grid">
+        <div><div class="eyebrow">A sua casa deveria parecer sua</div><p class="intro-quote">Antes de escolher o que comprar, descubra que casa combina com quem você é.</p></div>
+        <div class="intro-copy">
+          <p>Você abre uma pasta no Pinterest, salva dezenas de referências e pensa: “É isso. Agora sei o que quero.”</p>
+          <p>Mas, quando chega a hora de escolher um sofá, uma cor ou um tapete, começam as dúvidas. Será que combina com o que já tenho? Será que cabe no espaço? Será que esse preço vale a pena? E se eu comprar e me arrepender?</p>
+          <p>Aí você adia a decisão. Ou compra alguma coisa só para “dar um jeito” e depois tenta encaixar aquela escolha no resto da casa.</p>
+          <p>Uma casa não ganha identidade com uma sequência de compras desconectadas. Um ambiente bonito para outra pessoa pode não fazer sentido para você.</p>
+          <div class="checklist"><div class="check">Será que funciona no meu espaço?</div><div class="check">Isso combina com o que eu já tenho?</div><div class="check">O que devo resolver primeiro?</div><div class="check">Quanto posso investir em cada etapa?</div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section story">
+      <div class="wrap story-grid">
+        <div class="story-copy">
+          <span class="story-tag">A história da Carolina</span>
+          <h2>Eu comecei olhando para uma fábrica pela janela do meu quarto.</h2>
+          <p>Meu nome é Carolina Perrone. Sou engenheira e designer de interiores.</p>
+          <p>Quando eu tinha cerca de nove anos, meu pai foi transferido para uma fábrica de uma empresa belga. Nossa família saiu de São Paulo e foi morar em uma vila perto da Serra do Mar. A fábrica ficava tão perto que eu conseguia vê-la da janela do meu quarto.</p>
+          <p>Era uma indústria enorme, a céu aberto. Eu achava aquilo fascinante. Também convivi com muitas famílias de engenheiros. Meu sogro, que era engenheiro, chegou a me ajudar em matérias da faculdade. Aos poucos, comecei a imaginar que aquele poderia ser o meu caminho.</p>
+          <p>Escolhi engenharia. Mas havia outra parte de mim que também precisava de espaço: aos sábados, eu frequentava uma escola de arte. Desenhava, pintava e criava.</p>
+          <p class="story-end">Por muito tempo, esses dois lados caminharam juntos.</p>
+        </div>
+        <div class="photo-placeholder tall dark-placeholder"><b>Retrato de Carolina Perrone</b><span>Inserir foto real da Carolina nesta seção da história</span></div>
+      </div>
+    </section>
+
+    <section class="section" style="background:#fffdf8">
+      <div class="wrap">
+        <div class="section-head">
+          <div class="eyebrow">Uma carreira construída em movimento</div>
+          <h2>A profissão que eu procurava precisava caber na vida que eu queria.</h2>
+          <p class="lead">A engenharia me ensinou a pensar em processos. O design abriu espaço para a criação. E as mudanças me fizeram buscar uma profissão que eu pudesse levar comigo.</p>
+        </div>
+        <div class="timeline">
+          <article class="timeline-card"><strong>Engenharia</strong><p>Gostava de estudar processos, encontrar soluções e desenvolver projetos. Aos sábados, mantinha as aulas de arte como contraponto.</p></article>
+          <article class="timeline-card"><strong>Novos lugares</strong><p>Viveu cerca de cinco anos fora do Brasil, passando pela Dinamarca, França e China. A dificuldade de trabalhar por causa de vistos fez crescer o desejo por autonomia.</p></article>
+          <article class="timeline-card"><strong>Design de interiores</strong><p>Queria estudar arquitetura, mas não queria começar outra graduação de cinco anos. Encontrou um curso de dois anos e meio na Escola Panamericana. Em 2014, se formou; em 2015, começou a atuar profissionalmente como designer.</p></article>
+        </div>
+        <div class="career-details">
+          <article class="career-detail"><div class="eyebrow">Depois das mudanças</div><p>Ao voltar ao Brasil, Carolina tentou retomar a engenharia. Por falar francês e ter vivido fora, foi recrutada para trabalhar no atendimento de uma doceria francesa em São Paulo. A experiência ensinou sobre clientes e apresentação de produtos, mas ela sentia que precisava de outra profissão.</p></article>
+          <article class="career-detail"><div class="eyebrow">O que ela procurava</div><p>Queria trabalhar por conta própria e ter uma atividade que pudesse levar consigo se a vida mudasse de endereço. Encontrou na Panamericana uma formação criativa, prática e mais rápida do que começar outra graduação longa.</p></article>
+        </div>
+        <div class="story-grid" style="margin-top:54px;grid-template-columns:.8fr 1.2fr;gap:42px">
+          <div class="photo-placeholder"><b>Foto de projeto da Carolina</b><span>Inserir croqui, planta ou imagem renderizada de projeto profissional</span></div>
+          <div>
+            <h3>Por cinco anos, transformei ideias em projetos de interiores.</h3>
+            <p>Desenvolvi projetos residenciais e comerciais, com muitos trabalhos para lojas de moda. O processo começava entendendo o cliente: o que queria, do que precisava e o que imaginava para aquele espaço.</p>
+            <p>Depois, eu transformava essas informações em projeto. Fazia croquis, layouts, plantas e imagens em 3D. Organizava cada etapa em um caderno detalhado para que a execução pudesse acontecer com clareza.</p>
+            <p>Foi nesse trabalho que percebi algo recorrente: as pessoas tinham receio de gastar com decoração. Algumas imaginavam que contratar um designer seria caro. Outras temiam que o produto recomendado não valesse o preço.</p>
+            <p><strong>“Será que isso vale esse preço para a minha casa?”</strong></p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section problem">
+      <div class="wrap problem-grid">
+        <div>
+          <div class="eyebrow">O problema pode começar antes da primeira compra</div>
+          <h2>Comprar primeiro e planejar depois deixa você tentando consertar uma escolha com outra.</h2>
+          <p>Uma peça parece perfeita na loja. Só depois você pensa se cabe, se combina com o que já tem e se ainda vai sobrar dinheiro para concluir o ambiente.</p>
+          <p>Quando essas perguntas aparecem tarde, a pessoa troca o tapete, muda a cor ou adia o restante. A decoração vira uma sequência de decisões cansativas.</p>
+          <p class="big-statement">O problema não é você não ter bom gosto. É tentar decidir o que comprar antes de saber o que quer construir.</p>
+        </div>
+        <div class="problem-list">
+          <h3>Uma pasta cheia de referências não é um projeto.</h3>
+          <p>As referências mostram possibilidades. Mas não respondem:</p>
+          <ul><li>Qual ideia tem a ver comigo?</li><li>O que funciona no meu espaço?</li><li>O que devo resolver primeiro?</li><li>Quanto posso investir em cada etapa?</li><li>Como manter as escolhas coerentes entre si?</li></ul>
+          <div class="stripe-block"><div class="stripe-inner"><p>Entenda a pessoa.<br>Observe o espaço.<br>Organize os recursos.</p></div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section pinboard">
+      <div class="wrap">
+        <div class="section-head center">
+          <div class="eyebrow">Do repertório ao método</div>
+          <h2>A resposta estava na mistura de tudo que eu já sabia.</h2>
+          <p class="lead">A engenharia organizava meu pensamento. O design me ensinava a explorar soluções. E a decoração me aproximava das escolhas que fazem uma casa parecer casa.</p>
+        </div>
+        <div class="pin-grid">
+          <article class="pin-card"><div class="tape"></div><div class="photo-placeholder"><b>Carolina na Panamericana</b><span>Inserir foto real do período de formação, se disponível</span></div><h3>O lugar que parecia meu</h3><p>Na escola de design, cada aula trazia uma ideia e um projeto diferente. Carolina se sentia feliz criando.</p></article>
+          <article class="pin-card"><div class="tape"></div><div class="photo-placeholder"><b>Projeto ou croqui</b><span>Inserir desenho, planta ou imagem de projeto da Carolina</span></div><h3>O olhar de projeto</h3><p>Briefing, croquis, layouts e plantas ajudaram a transformar necessidades em decisões para o espaço.</p></article>
+          <article class="pin-card"><div class="tape"></div><div class="photo-placeholder"><b>Home Staging</b><span>Inserir foto autorizada de imóvel preparado pela Carolina</span></div><h3>A decoração sem reforma</h3><p>Nos Estados Unidos, o Home Staging aproximou Carolina da composição de móveis e objetos que já existiam no imóvel.</p></article>
+        </div>
+        <div class="stage-story">
+          <div><div class="eyebrow">A experiência nos Estados Unidos</div><h3>Foi durante a pandemia que a decoração ganhou outro caminho.</h3><p>Carolina mudou-se para a região de Greenville em 2019. Poucos meses depois, chegou a pandemia. Em um país novo, com poucos amigos por perto, ela começou a pesquisar o que poderia aprender para sua área.</p><p>Fez um curso online de Home Staging e ofereceu ajuda à corretora que havia vendido a casa do casal. Por cerca de dois anos, preparou imóveis ocupados usando os móveis e objetos que os moradores já tinham.</p><p>Também criou o curso introdutório <em>Meu Primeiro Home Staging</em>. Depois percebeu que explicar um assunto não era o mesmo que conduzir alguém por um processo. Foi quando começou a organizar a experiência de engenharia, projeto e decoração em um método.</p></div>
+          <div class="photo-placeholder"><b>Fotos de Home Staging</b><span>Inserir exemplos reais autorizados, sem simular antes e depois</span></div>
+        </div>
+        <div style="max-width:780px;margin:52px auto 0;text-align:center">
+          <h3>Foi dessa ideia que nasceu a Engenharia da Decoração.</h3>
+          <p>Carolina começou a classificar informações, definir critérios e pensar em uma sequência que uma pessoa sem formação em design pudesse aplicar. A pergunta era: como alguém pode decorar a própria casa com identidade e planejamento, sem depender de um especialista ao lado a cada escolha?</p>
+          <p><strong>A resposta foi organizar a decoração em etapas.</strong></p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section method" id="metodo">
+      <div class="wrap">
+        <div class="section-head">
+          <div class="eyebrow">Método D.N.A.</div>
+          <h2>Descubra. Planeje. Compre com consciência.</h2>
+          <p class="lead">Na Engenharia da Decoração, você começa pela sua identidade. Depois, traduz essa identidade em um projeto possível para o espaço e para o seu orçamento.</p>
+        </div>
+        <div class="method-layout">
+          <div class="method-nav" role="tablist" aria-label="Etapas do método D.N.A.">
+            <button class="method-tab" role="tab" aria-selected="true" aria-controls="panel-d" id="tab-d" data-panel="d">D — Descoberta de estilo<span>O que combina com você?</span></button>
+            <button class="method-tab" role="tab" aria-selected="false" aria-controls="panel-n" id="tab-n" data-panel="n">N — Normatização e projeto<span>O que funciona no seu espaço?</span></button>
+            <button class="method-tab" role="tab" aria-selected="false" aria-controls="panel-a" id="tab-a" data-panel="a">A — Aquisição consciente<span>O que comprar e quanto investir?</span></button>
+          </div>
+          <div class="method-panel" role="tabpanel" id="panel-d" aria-labelledby="tab-d" data-letter="D">
+            <div class="method-kicker">Etapa 01</div><h3>Descoberta de estilo</h3>
+            <p>Antes de escolher cores e móveis, você precisa entender o que realmente gosta e o que combina com a sua vida.</p>
+            <p>Nesta etapa, você investiga suas preferências, referências, memórias e necessidades para construir uma direção própria. A ideia é sair dos rótulos genéricos e encontrar uma identidade que ajude você a tomar decisões com mais confiança.</p>
+            <p class="result">Resultado: uma direção visual que começa em você, não na tendência da vez.</p>
+          </div>
+        </div>
+        <div class="method-steps"><div><b>1. Identidade</b>Descubra o que combina com você.</div><div><b>2. Projeto</b>Planeje como isso funciona no espaço.</div><div><b>3. Orçamento</b>Organize as compras e prioridades.</div></div>
+        <p style="margin:30px 0 0"><a class="button blue" href="#oferta">Quero aprender o método D.N.A. <span class="arrow">↗</span></a></p>
+      </div>
+    </section>
+
+    <section class="section phases">
+      <div class="wrap">
+        <div class="section-head center"><div class="eyebrow">O caminho dentro do curso</div><h2>Uma fase prepara a próxima.</h2><p class="lead">Você transforma preferências em decisões, as decisões em projeto e o projeto em um plano de compras.</p></div>
+        <div class="phase-grid">
+          <article class="phase"><span class="phase-num">1</span><div class="eyebrow">Tudo conhecido e definido</div><h3>Mapeamento pessoal de estilo</h3><p>Organize suas preferências e traduza sua identidade em uma linguagem visual que possa orientar a decoração.</p><div class="mini-list">Também começa a observar sua casa com mais atenção, identificando ajustes e possibilidades antes de pensar em grandes mudanças.</div></article>
+          <article class="phase"><span class="phase-num">2</span><div class="eyebrow">Tudo desenhado e pensado</div><h3>Dimensionamento e projeto</h3><p>Aplique sua identidade ao espaço que deseja decorar. Mapeie possibilidades, experimente soluções e pense no layout.</p><div class="mini-list">O projeto pode começar no papel e contar com ferramentas digitais para ajudar na visualização.</div></article>
+          <article class="phase"><span class="phase-num">3</span><div class="eyebrow">Tudo previsto e calculado</div><h3>Planejamento financeiro</h3><p>Organize os custos e avalie o projeto dentro da sua realidade financeira.</p><div class="mini-list">Visualize prioridades e planeje as compras ao longo do tempo para que cada decisão faça parte de um plano.</div></article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section gallery">
+      <div class="wrap">
+        <div class="section-head"><div class="eyebrow">O método na prática</div><h2>Da primeira ideia à escolha mais consciente.</h2><p class="lead">A decoração não começa na sacola de compras. Começa quando você entende o que quer e observa como isso pode funcionar no espaço.</p></div>
+        <div class="gallery-row">
+          <figure class="gallery-item"><div class="photo-placeholder"><b>Matriz de estilo</b><span>Inserir foto real da ferramenta ou material do curso</span></div><figcaption>1. Descubra sua identidade decorativa</figcaption></figure>
+          <figure class="gallery-item"><div class="photo-placeholder"><b>Layout ou projeto</b><span>Inserir croqui, planta ou visualização real</span></div><figcaption>2. Experimente soluções para o espaço</figcaption></figure>
+          <figure class="gallery-item"><div class="photo-placeholder"><b>Planilha de decoração</b><span>Inserir imagem real da planilha ou ferramenta</span></div><figcaption>3. Planeje prioridades e compras</figcaption></figure>
+        </div>
+        <p class="gallery-note">Você não precisa ser designer para começar. O curso foi pensado para ensinar os fundamentos de forma organizada e ajudar você a aplicar as etapas no seu espaço, no seu ritmo.</p>
+      </div>
+    </section>
+
+    <section class="section shift">
+      <div class="wrap">
+        <div class="section-head center"><div class="eyebrow">A mudança no processo</div><h2>Saia das compras soltas e comece a enxergar um plano.</h2><p class="lead">A proposta não é comprar mais. É saber por que cada escolha entra na sua casa.</p></div>
+        <div class="shift-grid">
+          <article class="shift-card"><div class="eyebrow">Quando você começa pela compra</div><h3>Você tenta descobrir o projeto no meio do caminho.</h3><ul><li>Salva referências diferentes sem saber qual representa seu estilo;</li><li>Compra uma peça e depois tenta adaptar o restante a ela;</li><li>Fica em dúvida sobre medidas, combinações e prioridades;</li><li>Não sabe quanto ainda precisará investir para concluir o espaço.</li></ul></article>
+          <article class="shift-card after"><div class="eyebrow">Quando você segue uma sequência</div><h3>Você sabe o que está construindo antes de gastar.</h3><ul><li>Define uma direção que combina com você;</li><li>Planeja o espaço e testa possibilidades;</li><li>Organiza prioridades e orçamento;</li><li>Escolhe cada item pensando no conjunto.</li></ul></article>
+        </div>
+        <div class="shift-cta"><p>Esse é o caminho que a Engenharia da Decoração ensina.</p><a class="button" href="#oferta">Quero começar com um plano <span class="arrow">↗</span></a></div>
+      </div>
+    </section>
+
+    <section class="section accessible">
+      <div class="wrap access-grid">
+        <div class="access-card"><div class="photo-placeholder"><b>Foto da casa da Carolina</b><span>Inserir foto real da casa que Carolina decorou para si</span></div><p class="small" style="margin:17px 0 0;font-weight:700">A primeira casa própria que Carolina pôde decorar com calma e escolhas próprias.</p></div>
+        <div class="access-copy"><div class="eyebrow">Você não precisa ser designer para começar</div><h2>Nem morar em 17 casas para descobrir o que funciona na sua.</h2><p class="lead">Carolina estima ter vivido em cerca de 17 casas e conhecido mais de 25 países. Essas experiências ampliaram o repertório dela — mas você não precisa viajar pelo mundo, estudar arte ou conhecer todos os estilos para decorar a sua casa.</p><p>A experiência dela ajudou a construir o método. O curso organiza os fundamentos necessários para você olhar para sua casa, entender suas preferências e planejar as escolhas.</p><p>Você também não precisa começar com uma reforma completa. Pode pensar em identidade, espaço e orçamento antes de decidir o que fazer.</p><div class="promise-list"><span>Sem talento artístico prévio</span><span>Sem programa complexo obrigatório</span><span>No seu próprio ritmo</span></div></div>
+      </div>
+    </section>
+
+    <section class="section offer" id="conteudo">
+      <div class="wrap">
+        <div class="section-head"><div class="eyebrow">Tudo o que acompanha o método</div><h2>Você recebe ferramentas para pensar, desenhar e planejar.</h2><p class="lead">Ao entrar na Engenharia da Decoração, você tem acesso ao curso e aos materiais para conduzir cada fase do processo.</p></div>
+        <div class="included">
+          <article class="included-card"><h3>Curso e ferramentas de projeto</h3><ul><li>Acesso ao curso completo e ao método D.N.A. de decoração;</li><li>Testes e tabelas da Matriz Pessoal de Estilo;</li><li>Checklist de vistoria e PDF de diagnóstico do ambiente;</li><li>Plantas-baixas em PDF para praticar layouts;</li><li>Figurinhas de objetos para montar painéis de ideias;</li><li>Planilhas financeiras editáveis para planejar a decoração;</li><li>Acesso por 12 meses para assistir às aulas no seu ritmo;</li><li>Espaço para enviar dúvidas de aplicação na plataforma.</li></ul></article>
+          <article class="included-card"><h3>Para organizar as próximas decisões</h3><div class="photo-placeholder small-photo"><b>Foto dos materiais do curso</b><span>Inserir imagem real de aulas, planilhas ou materiais</span></div><p style="margin:18px 0 0">Você poderá seguir as etapas com materiais de apoio para registrar ideias, visualizar layouts e organizar o orçamento.</p></article>
+        </div>
+        <div class="eyebrow">Materiais extras</div>
+        <div class="bonus-grid">
+          <article class="bonus"><strong>Planilha de Cronograma de Compras</strong><p>Organize as compras por prioridade e distribua os investimentos conforme sua capacidade financeira.</p></article>
+          <article class="bonus"><strong>Guia de Manutenção da Decoração</strong><p>Veja cuidados para conservar os itens e manter a decoração por mais tempo.</p></article>
+          <article class="bonus"><strong>Painel de Cores Sherwin-Williams</strong><p>Consulte cores organizadas para visualizar combinações para a pintura.</p></article>
+          <article class="bonus"><strong>Guia de Decoração Múltipla</strong><p>Aprenda a se organizar quando deseja decorar mais de um ambiente.</p></article>
+          <article class="bonus"><strong>Prompts de decoração para IAs e lista de aplicativos</strong><p>Use medidas, proporções, iluminação e paletas para orientar ferramentas de visualização, com uma lista de aplicativos sugeridos para apoiar o processo.</p></article>
+        </div>
+        <div class="price-box" id="oferta">
+          <div><div class="eyebrow">Acesso completo à Engenharia da Decoração</div><p>Curso, método D.N.A., ferramentas de projeto e materiais extras.</p><div class="small">De <span class="old-price">US$ 297</span></div><div class="price">US$ 197 <span style="font: .9rem var(--sans);letter-spacing:0">à vista</span></div><p style="margin:0">Ou em até 12 vezes no cartão. O checkout apresenta o valor convertido para a moeda local, conforme disponibilidade.</p></div>
+          <div><a class="button" href="#garantia">Quero fazer a Engenharia da Decoração <span class="arrow">↗</span></a><p class="secure">Acesso imediato • Pagamento seguro • Garantia de 7 dias</p></div>
+        </div>
+        <div class="guarantee" id="garantia"><div class="seal">7 dias<br>para decidir</div><p><strong>Conheça o método antes de decidir.</strong><br>Acesse o curso, assista aos primeiros módulos e comece a mapear seu estilo. Se, dentro de 7 dias, perceber que a metodologia não é para você, solicite o reembolso pela plataforma conforme as condições da garantia.</p></div>
+      </div>
+    </section>
+
+    <section class="section audience">
+      <div class="wrap">
+        <div class="section-head center"><div class="eyebrow">Para quem é este curso</div><h2>Para quem quer participar das escolhas da própria casa.</h2></div>
+        <div class="aud-grid">
+          <article class="aud-card"><h3>A Engenharia da Decoração é para você que…</h3><ul><li>Quer conduzir a decoração da própria casa com mais autonomia;</li><li>Pretende contratar um profissional, mas quer chegar à conversa sabendo explicar suas prioridades;</li><li>Tem referências salvas, ideias pela metade e dúvidas sobre como começar;</li><li>Quer organizar as compras e respeitar o próprio orçamento.</li></ul></article>
+          <article class="aud-card no"><h3>Este curso não é para quem…</h3><ul><li>Procura truques rápidos sem interesse em entender o próprio espaço;</li><li>Prefere comprar por impulso e decidir depois onde cada item vai ficar;</li><li>Espera que outra pessoa adivinhe seu gosto e tome todas as decisões;</li><li>Quer terceirizar completamente o processo, sem participar das escolhas.</li></ul></article>
+        </div>
+        <p style="text-align:center;max-width:700px;margin:28px auto 0">A Engenharia da Decoração é para quem quer participar das decisões e aprender uma forma mais organizada de conduzi-las.</p>
+      </div>
+    </section>
+
+    <section class="section faq" id="duvidas">
+      <div class="wrap">
+        <div class="section-head center"><div class="eyebrow">Dúvidas comuns</div><h2>Antes de começar, talvez você queira saber…</h2></div>
+        <div class="faq-list">
+          <details><summary>O método funciona para quem mora em outro país?</summary><p>O curso foi pensado para ensinar princípios de identidade, projeto e planejamento que podem ser aplicados em diferentes lugares. O checkout pode converter o valor para a moeda local, conforme as condições e meios de pagamento disponíveis na plataforma.</p></details>
+          <details><summary>Preciso saber desenhar?</summary><p>Não. O curso inclui orientações para representar ideias e trabalhar com layouts de forma simplificada. A proposta não é formar você como arquiteta ou designer, mas ajudar a organizar a decoração da sua casa.</p></details>
+          <details><summary>Preciso usar programas de arquitetura?</summary><p>Não. Você pode começar com papel, lápis, régua, trena e calculadora. As ferramentas digitais e de inteligência artificial servem como apoio para visualização, não como exigência para acompanhar o método.</p></details>
+          <details><summary>O curso serve para imóvel alugado?</summary><p>O método pode ajudar você a pensar em escolhas de decoração e organização sem partir diretamente para reformas estruturais. Avalie cada decisão conforme as regras do contrato e as características do imóvel.</p></details>
+          <details><summary>Quanto tempo preciso dedicar?</summary><p>Você pode assistir às aulas e aplicar os exercícios no seu ritmo. A estimativa atual da oferta é de 2 a 3 horas por semana.</p></details>
+          <details><summary>Por quanto tempo terei acesso?</summary><p>O acesso informado nesta oferta é de 12 meses.</p></details>
+          <details><summary>Como funciona a garantia?</summary><p>Você tem 7 dias para conhecer os primeiros módulos e avaliar se o curso faz sentido para você. Se solicitar o reembolso dentro desse prazo, a plataforma devolverá o valor pago conforme as condições da garantia.</p></details>
+        </div>
+      </div>
+    </section>
+
+    <section class="section closing">
+      <div class="wrap closing-grid">
+        <div><div class="eyebrow">A sua casa não precisa seguir a casa de outra pessoa</div><h2>Quando você olhar ao redor, reconheça um espaço que faz sentido para a sua vida.</h2><p class="lead">Você não precisa resolver a casa inteira de uma vez. Pode começar entendendo o que combina com você, olhar para o espaço com mais critério e planejar as compras de acordo com suas prioridades.</p><p>Foi isso que eu quis reunir na Engenharia da Decoração: a organização da engenharia, o olhar do design e um processo para você pensar na sua casa antes de gastar.</p><a class="button dark" href="#oferta">Quero começar a decorar com identidade e planejamento <span class="arrow">↗</span></a></div>
+        <div class="photo-placeholder tall"><b>Foto da Carolina em casa</b><span>Inserir foto real da Carolina no ambiente que decorou</span></div>
+      </div>
+    </section>
+  </main>
+  <footer class="footer"><div class="wrap footer-inner"><span>Engenharia da Decoração • Carolina Perrone</span><span>Informações, condições e acesso conforme exibidos no checkout.</span></div></footer>
+  <a class="sticky-cta" href="#oferta">Quero decorar com identidade e planejamento ↗</a>
+  <script>
+    const tabs=[...document.querySelectorAll('.method-tab')];
+    const content={
+      d:{letter:'D',kicker:'Etapa 01',title:'Descoberta de estilo',body:'Antes de escolher cores e móveis, você precisa entender o que realmente gosta e o que combina com a sua vida. Nesta etapa, você investiga suas preferências, referências, memórias e necessidades para construir uma direção própria. A ideia é sair dos rótulos genéricos e encontrar uma identidade que ajude você a tomar decisões com mais confiança.',result:'Resultado: uma direção visual que começa em você, não na tendência da vez.'},
+      n:{letter:'N',kicker:'Etapa 02',title:'Normatização técnica e projeto',body:'Com uma direção definida, você passa a olhar para o espaço com mais critério. Vai observar as possibilidades do ambiente, pensar em layouts, testar soluções e organizar as escolhas antes de partir para as compras. Assim, consegue enxergar o que pode funcionar e evitar decisões tomadas apenas porque um produto parece bonito na loja.',result:'Resultado: um plano visual pensado para o seu espaço e para a sua rotina.'},
+      a:{letter:'A',kicker:'Etapa 03',title:'Aquisição consciente',body:'Com a identidade e o projeto organizados, chega a hora de planejar as compras. Você vai trabalhar com prioridades, orçamento e etapas para decidir o que comprar, quando comprar e quanto investir. A intenção é fazer escolhas que tenham função no projeto e façam sentido para o seu bolso.',result:'Resultado: compras organizadas por prioridade, com mais clareza sobre cada investimento.'}
+    };
+    tabs.forEach(tab=>tab.addEventListener('click',()=>{tabs.forEach(t=>t.setAttribute('aria-selected','false'));tab.setAttribute('aria-selected','true');const v=content[tab.dataset.panel];const panel=document.querySelector('.method-panel');panel.dataset.letter=v.letter;panel.setAttribute('aria-labelledby',tab.id);panel.innerHTML='<div class="method-kicker">'+v.kicker+'</div><h3>'+v.title+'</h3><p>'+v.body+'</p><p class="result">'+v.result+'</p>';}));
+  </script>
+</body>
+</html>
